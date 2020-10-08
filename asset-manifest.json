@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/E-Commerce_ShoppingCart_with_React/static/css/main.1edcbc02.chunk.css",
+    "main.js": "/E-Commerce_ShoppingCart_with_React/static/js/main.1a114a32.chunk.js",
+    "main.js.map": "/E-Commerce_ShoppingCart_with_React/static/js/main.1a114a32.chunk.js.map",
+    "runtime-main.js": "/E-Commerce_ShoppingCart_with_React/static/js/runtime-main.a70cf67c.js",
+    "runtime-main.js.map": "/E-Commerce_ShoppingCart_with_React/static/js/runtime-main.a70cf67c.js.map",
+    "static/js/2.d377eb9f.chunk.js": "/E-Commerce_ShoppingCart_with_React/static/js/2.d377eb9f.chunk.js",
+    "static/js/2.d377eb9f.chunk.js.map": "/E-Commerce_ShoppingCart_with_React/static/js/2.d377eb9f.chunk.js.map",
+    "index.html": "/E-Commerce_ShoppingCart_with_React/index.html",
+    "precache-manifest.d2ed8541d729b8511b6b98fa102c38d1.js": "/E-Commerce_ShoppingCart_with_React/precache-manifest.d2ed8541d729b8511b6b98fa102c38d1.js",
+    "service-worker.js": "/E-Commerce_ShoppingCart_with_React/service-worker.js",
+    "static/css/main.1edcbc02.chunk.css.map": "/E-Commerce_ShoppingCart_with_React/static/css/main.1edcbc02.chunk.css.map",
+    "static/js/2.d377eb9f.chunk.js.LICENSE.txt": "/E-Commerce_ShoppingCart_with_React/static/js/2.d377eb9f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/E-Commerce_ShoppingCart_with_React/static/media/bbb.0210e597.jpg",
+    "static/media/dslr.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/dslr.59731bae.jpg",
+    "static/media/iphone.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/iphone.8d318e4a.jpg",
+    "static/media/microphone.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/microphone.e7bdef88.jpg",
+    "static/media/perfume.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/perfume.92ef6ab7.jpg",
+    "static/media/rings.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/rings.986af371.jpg",
+    "static/media/shoes.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/shoes.f30fe0b2.jpg",
+    "static/media/watch.jpg": "/E-Commerce_ShoppingCart_with_React/static/media/watch.b4e58e91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a70cf67c.js",
+    "static/js/2.d377eb9f.chunk.js",
+    "static/css/main.1edcbc02.chunk.css",
+    "static/js/main.1a114a32.chunk.js"
+  ]
+}
