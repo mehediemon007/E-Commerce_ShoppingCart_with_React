@@ -16,7 +16,7 @@ function App() {
           <Router>
             <Navbar />
             <Switch>
-              <Route path="/E-Commerce_ShoppingCart_with_React" exact component={Product} />
+              <Route path="/E-Commerce_ShoppingCart_with_React/" exact component={Product} />
               <Route path="/cart" exact component={Cart} />
               <Route component={NotFound} />
             </Switch>
