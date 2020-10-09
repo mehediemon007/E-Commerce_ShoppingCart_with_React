@@ -2,7 +2,7 @@
   "name": "dress_up",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mehediemon007.github.io/E-Commerce_ShoppingCart_with_React/",
+  "homepage": "https://mehediemon007.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
