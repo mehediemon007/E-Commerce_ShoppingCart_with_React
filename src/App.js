@@ -20,7 +20,7 @@ function App() {
               <Route path="/cart" exact component={Cart} />
               <Route component={NotFound} />
             </Switch>
-          <HashRouter>
+          </HashRouter>
         </CartContextProvider>
       </ProductsContextProvider>
     </div>
